@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-anotacoes-react/static/css/main.48fa6f95.css",
+    "main.js": "/projeto-anotacoes-react/static/js/main.2545f22b.js",
+    "static/js/787.92b90e86.chunk.js": "/projeto-anotacoes-react/static/js/787.92b90e86.chunk.js",
+    "index.html": "/projeto-anotacoes-react/index.html",
+    "main.48fa6f95.css.map": "/projeto-anotacoes-react/static/css/main.48fa6f95.css.map",
+    "main.2545f22b.js.map": "/projeto-anotacoes-react/static/js/main.2545f22b.js.map",
+    "787.92b90e86.chunk.js.map": "/projeto-anotacoes-react/static/js/787.92b90e86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fa6f95.css",
+    "static/js/main.2545f22b.js"
+  ]
+}
